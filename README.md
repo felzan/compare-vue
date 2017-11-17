@@ -1,6 +1,7 @@
 # compare-vue
 
 > A Vue.js project
+simple page to compare VUE, Angular and React
 
 ## Build Setup
 
